@@ -2,6 +2,7 @@
 - 🔭 在忙着看面试题
 - 🌱 在焦虑找工作
 - 🤔 缺人可以联系我邮箱mkdirHao@qq.com
+- 💬 有什么问题也可以联系我邮箱
 ![github-stats](https://github-readme-stats.vercel.app/api?username=YanJieMao&show_icons=true&line_height=26&hide_title=true)
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YanJieMao&layout=compact)
 
