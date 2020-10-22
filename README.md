@@ -1,6 +1,6 @@
 ### Hi there 👋
-![github-stats](https://github-readme-stats.vercel.app/api?username=yanjiemao&show_icons=true&line_height=26&hide_title=true)
-![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yanjiemao&layout=compact)
+![github-stats](https://github-readme-stats.vercel.app/api?username=YanJieMao&show_icons=true&line_height=26&hide_title=true)
+![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YanJieMao&layout=compact)
 
 <!--
 **YanJieMao/yanjiemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
