@@ -41,10 +41,10 @@
                 <span>Tomcat</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/tomcat.svg">
             </td>
-            <td width="5%" align="center">
+<!--             <td width="5%" align="center">
                 <span>Redis</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/redis.svg">
-            </td>
+            </td> -->
             <td width="5%" align="center">
                 <span>Git</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
