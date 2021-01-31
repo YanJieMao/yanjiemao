@@ -54,7 +54,7 @@
                 <img height="64px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
             </td>
             <td width="5%" align="center">
-                <span>go</span><br>
+                <span>Go</span><br>
                 <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
             </td>
         </tr>
