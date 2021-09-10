@@ -1,3 +1,17 @@
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/yanjiemao" style="display: flex">
+    <img src="https://raw.githubusercontent.com/yanjiemao/yanjiemao/main/header.svg" alt="Logo" style="width: 50%;height: 200px" />
+    
+  </a>
+
+  <p align="center" style="font-size: 20px">
+    <strong><a href="https://ng-tech.icu/books/" style="font-size: 20px"><h2 align="center">点击前往 NGTE Books Online, 在线阅读数千篇编程笔记</h2></a></strong>
+  </p>
+</p>
+
+
 ### Hi 👋
 - 🔭 成为打工人
 - 🌱 正在学习云计算相关内容
