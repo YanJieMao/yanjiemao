@@ -18,7 +18,7 @@
 ![github-stats](https://github-readme-stats.vercel.app/api?username=YanJieMao&show_icons=true&line_height=26&hide_title=true)
 ![langs-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YanJieMao&layout=compact)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@bf58efeb-3e96-4cd7-b6fe-a0c5a870eac2/6c6b5d48-e327-4c6e-bfc8-4296c23f77bb.png" /></a>
+<!--a href="https://wakatime.com"><img src="https://wakatime.com/share/@bf58efeb-3e96-4cd7-b6fe-a0c5a870eac2/6c6b5d48-e327-4c6e-bfc8-4296c23f77bb.png" /></a -->
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
